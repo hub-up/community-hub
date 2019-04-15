@@ -86,3 +86,8 @@
 * What assertions were made?
 * What assertions need to be / should be made?
 
+### Diagrams
+
+
+
+![UML Diagram 1](https://imgur.com/yQflV5m)
